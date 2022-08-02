@@ -10,3 +10,7 @@ Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
 
+Shanthi Nagasubramanian
+Divide and Conquer Algorithms
+Break the problem into different pieces to reduce the complexity and put the results back to get to the final
+solution. This is done in cases where the problem is complex and also where straight single approach does not work. For Example: quicksort
